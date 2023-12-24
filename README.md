@@ -22,6 +22,8 @@
 
 ✅ [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) - сохраняет выбранный костюм между играми.
 
+✅ [Happy Hats](https://thunderstore.io/c/lethal-company/p/fizzysaur/Happy_Hats/) - аксессуары для персонажа (по просьбе Onyaka).
+
 #### Интерфейс
 
 ✅ [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/) - показывает количество лута на корабле при скане.
@@ -70,7 +72,7 @@
 
 ❌ [FastSwitchPlayerViewInRadar](https://thunderstore.io/c/lethal-company/p/kRYstall9/FastSwitchPlayerViewInRadar/) - позволяет быстро переключаться между игроками на радаре. По умолчанию стрелочки влево и вправо.
 
-✅ [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/) - использование фонарика на клавишу F.
+✅ [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/) - использование фонарика на клавишу F (по просьбе Onyaka).
 
 ✅ [WalkieUse](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/) - использование рации на клавишу R (необходимо перебиндить дефолтное назначение клавиши или выбрать другую клавишу для рации).
 
@@ -84,7 +86,7 @@
 
 ✅ [MenuMusicMute](https://thunderstore.io/c/lethal-company/p/Graze/MenuMusicMute/) - отключение музыки в главном меню.
 
-~[SkipToMultiplayerMenu](https://thunderstore.io/c/lethal-company/p/FlipMods/SkipToMultiplayerMenu/) - пропуск всех заставок и моментальная "доставка" в меню мультиплеера.~ (сломан)
+~[SkipToMultiplayerMenu](https://thunderstore.io/c/lethal-company/p/FlipMods/SkipToMultiplayerMenu/) - пропуск всех заставок и моментальная "доставка" в меню мультиплеера.~ (сломан, засирает логи ошибками и увеличивает время загрузки игры, но автоматически выбирает Online)
 
 ---
 
