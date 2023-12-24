@@ -6,7 +6,7 @@
 
 Мод: ✅ - был опробован; ❌ - не был опробован; ❗ - прочти FAQ мода перед установкой.
 
-Для простой установки в 1 клик, удаления и настройки модов рекомендую приложение [Thunderstore Mod Manager](https://www.overwolf.com/oneapp/thunderstore-mod-manager). Является надстройкой над Overwolf, который есть почти у всех, как мне кажется.
+Для простой установки в 1 клик, удаления и настройки модов рекомендую приложение [Thunderstore Mod Manager](https://www.overwolf.com/oneapp/Thunderstore-Thunderstore_Mod_Manager). Является надстройкой над Overwolf, который есть почти у всех, как мне кажется.
 
 ### Актуальность: 24.12.2023 (v45)
 
