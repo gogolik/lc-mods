@@ -68,6 +68,8 @@
 
 ❌ [FastSwitchPlayerViewInRadar](https://thunderstore.io/c/lethal-company/p/kRYstall9/FastSwitchPlayerViewInRadar/) - позволяет быстро переключаться между игроками на радаре. По умолчанию стрелочки влево и вправо.
 
+✅ [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/) - использование фонарика на клавишу F.
+
 ✅ [WalkieUse](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/) - использование рации на клавишу R (необходимо перебиндить дефолтное назначение клавиши или выбрать другую клавишу для рации).
 
 ✅ [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) - можно сохранить до 999 предметов.
@@ -78,7 +80,9 @@
 
 ✅❗ [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/) - улучшенное сканирование предметов.
 
-✅ [SkipToMultiplayerMenu](https://thunderstore.io/c/lethal-company/p/FlipMods/SkipToMultiplayerMenu/) - пропуск всех заставок и моментальная "доставка" в меню мультиплеера.
+[DisableIntroSpeaker](https://thunderstore.io/c/lethal-company/p/FlawTECH/DisableIntroSpeaker/) - отключение назойливого динамика, который вещает в начале игры.
+
+~[SkipToMultiplayerMenu](https://thunderstore.io/c/lethal-company/p/FlipMods/SkipToMultiplayerMenu/) - пропуск всех заставок и моментальная "доставка" в меню мультиплеера.~ (сломан)
 
 ---
 
