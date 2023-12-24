@@ -58,6 +58,8 @@
 
 ✅❗ [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/) - бесконечные сохранения с возможностью изменения имени.
 
+✅ [DisableIntroSpeaker](https://thunderstore.io/c/lethal-company/p/FlawTECH/DisableIntroSpeaker/) - отключение назойливого динамика, который вещает в начале игры.
+
 ✅ [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) - позволяет слышать рацию всем, кто находится рядом, а не только тому, кто её держит. Если включенная рация лежит на полу - её звук тоже можно слышать.
 
 ✅ [ItemQuickSwitch](https://thunderstore.io/c/lethal-company/p/vasanex/ItemQuickSwitch/) - позволяет быстро переключать предметы в инвентаре по нажатию клавиш 1 2 3 4 (танец и указатель на F1 и F2).
@@ -80,7 +82,7 @@
 
 ✅❗ [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/) - улучшенное сканирование предметов.
 
-[DisableIntroSpeaker](https://thunderstore.io/c/lethal-company/p/FlawTECH/DisableIntroSpeaker/) - отключение назойливого динамика, который вещает в начале игры.
+✅ [MenuMusicMute](https://thunderstore.io/c/lethal-company/p/Graze/MenuMusicMute/) - отключение музыки в главном меню.
 
 ~[SkipToMultiplayerMenu](https://thunderstore.io/c/lethal-company/p/FlipMods/SkipToMultiplayerMenu/) - пропуск всех заставок и моментальная "доставка" в меню мультиплеера.~ (сломан)
 
