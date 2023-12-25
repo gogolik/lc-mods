@@ -6,11 +6,11 @@
 
 Мод: ✅ - был опробован; ❌ - не был опробован; ❗ - прочти FAQ мода перед установкой.
 
-Для простой установки в 1 клик, удаления и настройки модов рекомендую приложение [Thunderstore Mod Manager](https://www.overwolf.com/oneapp/Thunderstore-Thunderstore_Mod_Manager). Является надстройкой над Overwolf, который есть почти у всех, как мне кажется.
+Для простой установки в 1 клик, обновления, удаления и настройки модов рекомендую приложение [Thunderstore Mod Manager](https://www.overwolf.com/oneapp/Thunderstore-Thunderstore_Mod_Manager). Является надстройкой над Overwolf, который есть почти у всех, как мне кажется.
 
-### Актуальность: 24.12.2023 (v45)
+### Актуальность: 25.12.2023 (v45)
 
-#### Более 90% модов должны быть установлены у всего лобби для корректной работы.
+#### Более 90% модов должны быть установлены у всего лобби для корректной работы. Некоторые моды могут требовать установки дополнительных модов (через приложение всё делается автоматически).
 
 ---
 
@@ -23,6 +23,10 @@
 ✅ [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) - сохраняет выбранный костюм между играми.
 
 ✅ [Happy Hats](https://thunderstore.io/c/lethal-company/p/fizzysaur/Happy_Hats/) - аксессуары для персонажа (по просьбе Onyaka).
+
+✅ [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) - увеличивает размер лобби до 8 человек, добавляет новые костюмы (по просьбе Onyaka).
+
+✅ [Cats Custom Suits](https://thunderstore.io/c/lethal-company/p/berrycatblue/Cats_Custom_Suits/) - 3 доп. костюма  (по просьбе Onyaka).
 
 #### Интерфейс
 
