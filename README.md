@@ -64,6 +64,8 @@
 
 ✅❗ [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/) - бесконечные сохранения с возможностью изменения имени.
 
+✅ [ShipLobby](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/) - позволяет присоединяться игрокам между высадками.
+
 ✅ [DisableIntroSpeaker](https://thunderstore.io/c/lethal-company/p/FlawTECH/DisableIntroSpeaker/) - отключение назойливого динамика, который вещает в начале игры.
 
 ✅ [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) - позволяет слышать рацию всем, кто находится рядом, а не только тому, кто её держит. Если включенная рация лежит на полу - её звук тоже можно слышать.
